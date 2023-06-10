@@ -50,12 +50,12 @@ p {
 
 }
 
-.footer { 
+footer { 
     padding: 6px;
     font-size: 11px; 
     text-align: center; 
 }
 
-.footer a { 
+footer a { 
     color: hsl(228, 45%, 44%); 
 }
