@@ -8,7 +8,7 @@ body {
     justify-content: center;
 }
 
-.main {
+main {
     margin: 0 auto;
     background-color:#fff;
     padding: 14px;
@@ -27,13 +27,13 @@ body {
     border-radius: 16px;
 }
 
-h2, p {
+h1, p {
     font-family: 'Outfit', sans-serif;
     padding: 0 14px;
     text-align: center;
 }
 
-h2 {
+h1 {
     font-weight: 700;
     font-size: 1.3rem;
     color: hsl(218, 44%, 22%);
